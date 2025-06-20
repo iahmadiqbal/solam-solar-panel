@@ -1,5 +1,5 @@
 const Projects = () => {
-  return <div>Projects page is here </div>;
+  return <div className="mt-[4rem]">Projects page is here </div>;
 };
 
 export default Projects;

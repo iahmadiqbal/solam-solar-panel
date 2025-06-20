@@ -1,5 +1,5 @@
 const OurTeam = () => {
-  return <div>OurTeam page is here</div>;
+  return <div className="mt-[4rem]">OurTeam page is here</div>;
 };
 
 export default OurTeam;

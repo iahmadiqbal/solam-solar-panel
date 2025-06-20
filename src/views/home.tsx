@@ -1,5 +1,5 @@
 const Home = () => {
-  return <div>home page is Here</div>;
+  return <div className="mt-[4rem]">home page is Here</div>;
 };
 
 export default Home;
