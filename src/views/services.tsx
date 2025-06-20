@@ -1,5 +1,5 @@
 const Services = () => {
-  return <div className="mt-[4rem]">Services page is here</div>;
+  return <div>Services Page</div>;
 };
 
 export default Services;

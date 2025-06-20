@@ -1,5 +1,5 @@
 const Contact = () => {
-  return <div className="mt-[4rem]">contact page is Here</div>;
+  return <div>Contact Page</div>;
 };
 
 export default Contact;
