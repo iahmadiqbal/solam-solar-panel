@@ -4,7 +4,7 @@ import Home from "./views/Home";
 import About from "./views/About";
 import Projects from "./views/Projects";
 import Services from "./views/Services";
-import OurTeam from "./views/OurTeam"; // ✅ Fixed casing
+import OurTeam from "./views/Ourteam";
 import Contact from "./views/Contact";
 
 function App() {
